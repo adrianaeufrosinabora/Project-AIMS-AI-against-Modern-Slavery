@@ -103,7 +103,7 @@ If you want to join us, have any questions or you would like to get help with do
 
 If you intend to share any form of public research and analysis based on this repository’s data or code, please include the following citation to your publication: _The Future Society. (2020) Project AIMS (AI against Modern Slavery). Retrieved from https://github.com/the-future-society/Project-AIMS-AI-against-Modern-Slavery _ 
 
-### Main contributors to the GitHub:
+### Main contributors to this GitHub:
 - [Adriana Eufrosina Bora](https://www.linkedin.com/in/adriana-eufrosina-bora-2965a19a/) 
 - [Rui Wang](https://www.linkedin.com/in/rui-wang-07774221/)
 - [Rodney Phillips](https://www.linkedin.com/in/rodney-levon-phillips/)
