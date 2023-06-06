@@ -93,7 +93,7 @@ Join our community on [Slack](https://join.slack.com/t/projectaimsai-fqt6125/sha
 Help us solve some of the [Issues](https://github.com/the-future-society/Project-AIMS-AI-against-Modern-Slavery/issues) or pick a [Subproject](https://github.com/the-future-society/Project-AIMS-AI-against-Modern-Slavery/tree/main/%F0%9F%93%94%20Model%20for%20multi-class%20and%20multi-label%20classification%20for%20core%20metrics). 
 
 ### Get in touch 💬
-If you want to join us, have any questions or you would like to get help with domain expertise or technical requirements, please get in touch with [Adriana](mailto:adriana.bora@thefuturesociety.org).
+If you want to join us, have any questions or you would like to get help with domain expertise or technical requirements, please get in touch with [Adriana](mailto:adriana.eufrosina-bora@mila.quebec).
 
 >_“This tool will be an innovative way to hold companies to account. It means our teams can speed up the analysis of company statements and it will allow us to focus on the investigation of different sectors and highlight areas that require improvement. Going forward, this will lead to better disclosure of company action to tackle modern slavery in global supply chains.”  -  Katharine Bryant, European Engagement Lead Walk Free Initiative_
 
